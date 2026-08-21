@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Philip 👋
 
-<!--
-**philipbroze/philipbroze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Working in Legal Operations & Transformation, with a background in law.
 
-Here are some ideas to get you started:
+**What I'm interested in here:**
+- Legal Tech, Legal Operations & AI-driven legal services
+- AI Governance & compliance frameworks
+- Claude Skills, agentic frameworks, and practical LLM applications in the legal field
+- Emerging developments, tools & platforms in Legal Operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use GitHub mainly to follow and explore projects and people working at the intersection of legal tech, legal Operations and AI governance.
+
+📫 www.linkedin.com/in/philipbroze
